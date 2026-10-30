@@ -50,7 +50,7 @@ Para arreglar esto sin romper la relación con el cliente clave ni ahogar a la e
 ## 🚀 ¿Quieres ver cómo se ha cocinado todo esto paso a paso?
 Este README es solo la punta del iceberg. Si te interesa ver las tripas del código, los cruces de tablas granulares (`DI` -> `Viaje` -> `Mes/Nave`) y los mapas de ruta analíticos, puedes explorar el cuaderno completo aquí mismo:
 
-**Aviso:** el cuaderno es largo y detallado. Pido disculpas por lo extenso, pero en este proyecto la letra pequeña era obligatoria para que el código tuviera sentido de principio a fin y para no acabar ahogada entre tanto *merge*.
+**Aviso:** el cuaderno es largo y detallado. Pido disculpas por lo extenso, pero en este proyecto la letra pequeña era obligatoria para que el código tuviera sentido de principio a fin.
 
 
 👉 **[Enlace al Cuaderno en Google Colab](https://colab.research.google.com/github/Alexandra-Ortega/analisis-tarifas-pyme/blob/main/simulacionPYME.ipynb)**
