@@ -36,7 +36,7 @@ Para arreglar esto sin romper la relación con el cliente clave ni ahogar a la e
 
 | **Nuevo Escenario Sugerido** | Estabilidad garantizada, costes cubiertos y fidelización del cliente clave mediante incentivos reales. |
 
-![Gráfico de beneficios y simulación](grafico_beneficios.png)
+![Gráfico de beneficios y simulación](comparativa_beneficios.png)
 
 ---
 
